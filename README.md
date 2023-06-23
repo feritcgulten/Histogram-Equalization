@@ -1,5 +1,5 @@
 # Histogram-Equalization
-The equalized images and the histogram of its channels.
+Equalized images and the histogram of its channels.
 
 **<p align="center">
 Equalized Images and Histograms</p>**
